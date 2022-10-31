@@ -19,6 +19,7 @@ import pandas as pd
 import warnings
 warnings.filterwarnings('ignore')
 
+
 # Create the network to extract the features
 class MyResNetFeatureExtractor(nn.Module):
     def __init__(self, resnet, transform_input=False):

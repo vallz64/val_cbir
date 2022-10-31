@@ -1,1 +1,1 @@
-# val_cbir
+#CBIR PROJECT by VALLZ
